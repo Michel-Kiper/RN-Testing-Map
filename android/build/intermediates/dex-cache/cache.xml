@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_efc4f2602fe74991509084113f779decd65eb292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_596b33eb1150c009afc1421f37d2115888ffa030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_e7d6e5659ddffa8b9a91d0b4d761dacb99f77cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4b2d07f780d8b29d39c0daf1129d544e726cc1b">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.jakewharton.timber-timber-4.6.0_5fcecafe17a07321aa0087b3e02dd5d8b1605aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_9197dedf1b221479e9d0d1c545c3d26e42fb5e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d7eb10c9ed4c5a0ec47af526aa5ee07c9667d2a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_69f7cbc9f8edb96a4e9e589d7ba7ee5ba9497128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_097af9097e17583f79fa2b348bc2e8bde6730c87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6263caa7ab6118ca6504388bdb2cc7d753d5009b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68eea7ff8efd77b77cdca73805f85caf7e40be04">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-sdk-5.4.1_e9ceb125a12f42d66f56c1995c85eb1f9cdffed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_dea27add678a161ea995f3032df8bed8192c179e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_ee8b313cad7d3af34d2fae76e8bb7600ac83f4c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_28c6a9ca49c9c78bb4fcf53b9deab4279f270074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-plugin-localization/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a58a614ff6c48c46b27cba3859c069204bd7fb6">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-plugin-localization-0.1.0_cece4247ce1a05810191788fa6f43ec31df344fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-services/2.2.9/32099854fcd364940c562d83c1394aa917faa79b/mapbox-java-services-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="32099854fcd364940c562d83c1394aa917faa79b">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/mapbox-java-services-2.2.9_942d3bf80fa768b21c46a94e5c72ce6fcb0d4662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_06532c3cb070111233bc1b8f45f14f3290dd692d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-telemetry/2.2.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="612aa385190830bd6db2f01552caf3519835dc9a">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-telemetry-2.2.9_6e440bf27e6ee10adfe7fdbff2e127ccc2035bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_7604efd1273eae1b83394198eb701c5ef2d064ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_750a1c5cf4cc2f4e17c809aa32cd438ef4d8e289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_14f77b8e343f3267253559113258d51cbf69bb6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/TestMap/mapbox-react-native-mapbox-gl/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b46bc0189cfd8426fc3d0b13796395f22815835d">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/TestMap-mapbox-react-native-mapbox-gl-unspecified_e77c0e2ca6f3eba4037107b91ab5209f5fba9070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c4e51d7093935fa905a78188d7346e3f8494e4b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9e96a952ee2adc56476fddd9a1d125de0d91563a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-plugin-locationlayer/0.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1cad667a0222bae157d31a08af83400e470a05f">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-plugin-locationlayer-0.3.0_66d95f48fa23b9b4e5e4b4e738a586c9cc5eb586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_9b0ce5a824ab43d92a0593d2061a6d8b16d06965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6be6d91ec0f7e5b13b3d92bf2c999d384802e33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/okhttp-3.9.1_ddc74648c9348be71d5a876cd2b0648364a0cd86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-core/2.2.9/c18aa432e1830aba56d861494f131a34a0b8ce69/mapbox-java-core-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c18aa432e1830aba56d861494f131a34a0b8ce69">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/mapbox-java-core-2.2.9_5013921bb3a11c8d228ac2b6b3b3356f28c6c178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_9d8025c9e8d021129fa1f637a9ee0400e43f7e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_74db9e22a7b4b7a75d18d2f981b1581b355c0765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.mapzen.android/lost/3.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d35b57785e805406538454943d0ed0ba97f6e653">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.mapzen.android-lost-3.0.4_c5af7a53cb4b6d6d6aa65ad84cde929f3b0242aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_57af6b36b1bf60dbdc93b3b4074d6fde360cf6ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_29605d169056541f9d389385e4b2c08b27d59921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_d4b28f1799a241f8b03bef0b412a8622b925a24b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_0fb12a4262ed0f5e1b64a5da9d7fd87a130b7e64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0cc3ed8a23b89959e2702cf5ce745a68150b5d41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_ca9aa9605b7b69c3e9fd92e17cd87761123fa5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_cf9bfb0b10d0fcccc3cf613ebdc8247100cc1e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-geojson/2.2.9/c53f47c9fdf762ae6fd86efd056da7a1651a0fed/mapbox-java-geojson-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c53f47c9fdf762ae6fd86efd056da7a1651a0fed">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/mapbox-java-geojson-2.2.9_8c5b42185d5ee1756aa9250e608b3f05be1bf2a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/gson-2.8.0_704d0120ec3e16cdaff0481db3b76eee92b36c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2d23c36255ab62b3e84d7ab7ec7bd85f29076f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_894b4c80212e0f00cdc602d0ba23754f96e48e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-services/2.2.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9adc627fc283339f926c4e10d82a42bc39e0d77f">
+        <dex dex="/home/kiper/Documentos/React/TestMap/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-services-2.2.9_15c520f2c0572e8c6dbac88257e46aefdb1f3f7b.jar" />
+    </item>
+
+</items>
